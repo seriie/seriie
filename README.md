@@ -23,3 +23,4 @@
 
 ### WakaTime Stats
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seriie&layout=compact&theme=radical)
+[![Stperrakis wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stperrakis)](https://github.com/anuraghazra/github-readme-stats)
