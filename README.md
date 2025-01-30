@@ -22,5 +22,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=seriie&theme=darkhub)
 
 ### WakaTime Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seriie&layout=compact&theme=radical)
 [![Seriie wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seriie&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
