@@ -23,4 +23,4 @@
 
 ### WakaTime Stats
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seriie&layout=compact&theme=radical)
-[![Seriie wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seriie)](https://github.com/anuraghazra/github-readme-stats)
+[![Seriie wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seriie&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
