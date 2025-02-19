@@ -5,7 +5,6 @@
 ### GitHub Stats
 ![Seriie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seriie&show_icons=true&theme=radical)
 
-### Languages and Tools
 ### Languages & Tools
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
