@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GIF](https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gifyou.webp)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=seriie&style=flat-square)
 
 ### GitHub Stats
