@@ -17,11 +17,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on: **your current project here**
-- 🌱 Currently learning: **new language / framework here**
+- 🔭 Currently working on: **--**
+- 🌱 Currently learning: **golang**
 - 🤝 Looking to collaborate on: **open-source / side projects**
-- 💬 Ask me about: **your favorite topics here**
-- ⚡ Fun fact: **something about you here**
+- 💬 Ask me about: **coding**
+- ⚡ Fun fact: **--**
 
 ---
 
