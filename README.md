@@ -73,10 +73,13 @@
 
 ---
 
-### 📈 Contribution Graph
+### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seriie&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seriie/seriie/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/seriie/seriie/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
