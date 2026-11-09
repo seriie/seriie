@@ -28,7 +28,10 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,tailwind,php,laravel,python,mysql,postgres,git,github,docker,linux,vscode,figma&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nodejs,express,tailwind,php,laravel,python,cpp,go,mysql,postgres,git,github,docker,linux,vscode,figma&perline=10" alt="Tech Stack" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
 </div>
 
 > Edit the icon list in the URL to match your stack. All icon names are listed at [skillicons.dev](https://skillicons.dev).
@@ -49,9 +52,6 @@
 <div align="center">
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=seriie&layout=compact&langs_count=20&hide_values=true&theme=radical">
     <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=seriie&layout=compact&langs_count=20&hide_values=true&theme=radical" alt="Top Languages (Radical)" />
-  </a>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=seriie&layout=compact&langs_count=20&hide_values=true&theme=dark_github">
-    <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=seriie&layout=compact&langs_count=20&hide_values=true&theme=dark_github" alt="Top Languages (Dark GitHub)" />
   </a>
 </div>
 
