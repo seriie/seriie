@@ -33,9 +33,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
 </div>
-
-> Edit the icon list in the URL to match your stack. All icon names are listed at [skillicons.dev](https://skillicons.dev).
-
 ---
 
 ### 📊 GitHub Stats
