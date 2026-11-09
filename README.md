@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=seriie&style=flat-square)
 
 ### GitHub Stats
-![Seriie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seriie&show_icons=true&theme=radical)
+![Seriie's GitHub Stats](https://github-stats-extended.vercel.app/api?username=seriie&rank_icon=percentile&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=radical)
 
 ### Languages & Tools
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
