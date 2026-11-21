@@ -17,8 +17,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on: **--**
-- 🌱 Currently learning: **golang**
+- 🔭 Currently working on: **My dotnet application**
+- 🌱 Currently learning: **Dotnet**
 - 🤝 Looking to collaborate on: **open-source / side projects**
 - 💬 Ask me about: **coding**
 - ⚡ Fun fact: **--**
