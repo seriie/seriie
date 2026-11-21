@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:ff4ecd&height=200&section=header&text=Hi%2C%20I'm%20Seriie%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=16" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:ff4ecd&height=200&section=header&text=Hi%2C%20I'm%20Zee%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=16" alt="banner" />
 </div>
 
 <!-- Typing intro -->
